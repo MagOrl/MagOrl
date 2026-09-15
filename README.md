@@ -1,166 +1,101 @@
+# Salut, moi c'est Magomed 👋
 
-  <div align="center">
-<h1 align="center">Hi<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">,I'm Magomed</h1>
-<h4 align="center">An student in computer science in the univserity of Orléans </h4>
-</div>
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-</div>
-<hr>
-<details>
-  <summary>☎️ contact me : </summary>
-<div>
-  <samp>
-    <h2 align="center">you can reach me by:</h2>
-    <p align="center">
-      <br>
-      <a href=" https://www.linkedin.com/in/magomed-a-35b006383//" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
-      <a href="mailto:azzar.mr.zs@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="azzar" height="30"></a>
-    </p>
-  <p align="center">
-      <br>
-    </p>
-  </samp>
-</div>
-</details>
-<details>
-  <summary>🧮 about</summary>
-<div>
-<samp>
-<h2 align="center">About this Account</h2>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://komarev.com/ghpvc/?username=1999AZZAR&amp;style=for-the-badge&amp;label=PROFILE+VIEWS" height="25" alt="views count"></a>
-  <a href="https://1999azzar.github.io/1999AZZAR/"><img align="center" src="https://img.shields.io/website?down_message=offline&amp;style=for-the-badge&amp;up_message=online&amp;url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25" alt="website"></a>
-  </p>
-  <p align="center">
-  <a href="https://www.codefactor.io/repository/github/1999azzar/1999azzar/overview/main"><img align="center" src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25" alt="CodeFactor"></a>
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25" alt="page built"></a>
-  </p>
- <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&amp;style=for-the-badge" height="25" alt="lisense"></a>
-  <a href="github.com/1999AZZAR"><img align="center" src="https://forthebadge.com/images/badges/works-on-my-machine.svg" height="25" alt="work on my machine"></a>
- </p>
- </samp>
-</div>
-</details>
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <div>
-  <samp>
-    <h2 align="center"> Github stats </h2>
-      <br>
-    <details open="">
-  <summary><h3>Languages</h3></summary>
-            <p align="center">
-        <a href="https://github.com/1999AZZAR/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1999AZZAR&amp;langs_count=6&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: overall Top Langs "></a>
-      </p>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by repo">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1999azzar&amp;theme=gruvbox&amp;layout=compact&amp;hide_border=true" alt="1999AZZAR :: Top Langs by commit">
-          </a>
-        </p>
-</details>
-    <details open="">
-  <summary><h3>stasistic</h3></summary>
-        <p align="center">
-          <a href="https://github.com/1999AZZAR/">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=1999AZZAR&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
-          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&amp;theme=gruvbox&amp;hide_border=true">
-          </a>
-       </p>
-     <br>
-     
-  </details></samp></div>    
-</details>
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br>
-  <h2 align="center"> latest contribution </h2>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&amp;bg_color=000&amp;color=fff&amp;line=00E676&amp;point=fff&amp;hide_border=true"></a>
-<br>
-  </samp>
-  </details>
-<details>
-  <summary>🌏 global</summary>
-  <br>
-  <details open="">
-  <summary>👷‍♂️ create your own custom badge</summary>
-  <div>
-  <samp>
-    <h2 align="center">u can try using these website for creating your own custom badge</h2>
-    <p align="center">
-      <a href="https://forthebadge.com/generator/" target="blank">
-        <img src="https://forthebadge.com/images/mark.svg" img="" align="center" height="50" alt="for the badge"></a>        
-      <a href="https://badgen.net/" target="blank">
-        <img src="https://badgen.net/static/favicon.png" img="" align="center" height="50" alt="badgen"></a>
-      <a href="https://shields.io/" target="blank">
-        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img="" align="center" height="50" alt="shields.io"></a>
-    </p>
-    </samp>
-  </div>
-</details> 
-<details open="">
-  <summary>😒 random stuff</summary>
-<div>
-<samp>
-<h2 align="center"> just an ascii art of me holding an umbrella </h2>
-</samp>
-</div>
-<pre class="astro-code github-dark" style="background-color:#24292e;color:#e1e4e8; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color:#6A737D">/*</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,///////,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,//(((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((((((((((((((((((((((((((((((((((((((((((((('',,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((((((((((((((((((((((((((((((((((((((((((//,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((((((((((((((((((((((((((((((((((((((((((((((((',,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((((((((((((((((((((((((((((((((((((((((((((((((((((((((/,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'((((((((((((''''',,,,(((((((((((((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/////(((((((/,,,/(((((((((((((((((///,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((((//,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((((((((((,,,,,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/(((((((((/,,,,,,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,((',,,,,,,,,,,,,,((((((((,,,,,,,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,/((,,,(((,,,,,,,,,,,,,,((((((((,,,,,,,,,,/(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,,,,,,,'(((((((((((,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,(((,,,((((,,,,////((((((((((''',,,,,,,,,,,,,'(((/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,((',,(((,,,((((,'((((((((((((((((((',,,,,,,,,,,,,,,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((/,,((((/(((((((((((((((((((((/,,,,,',,/,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,,((((((((,(((((((((((((((((((',,,,,,(,,,,,(((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,'(',,(((,,,(((('(((,,,/(((((((((((((((((,,,,,'(,,/,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,(',,'((((((((,(((,,,((,,,,,,,(((,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,,(((,,((,,(((((((((,((',,,((,,,,,,,',,,,/(((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(,,,,,((,,,((,,,((((((((,,(,,,,,((,,,,,,,,,,,,,((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,(((,,((((((((,(((,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((,((',,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((((,,((((((((((((,,,,,((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,(((((((((',((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((((((((,,((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,((((,((,((,(((,,,,,,(,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,(((,,((((((((,((,,((,',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((,,,((((((((((',,(((',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((('((((((((((((((((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((('((''''''',,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,((((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,'(((,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,</span></span>
-<span class="line"><span style="color:#6A737D">*/</span></span></code></pre>
-</details>
-<br>
-</details> 
-<hr>
-<p>Credits: <a href="https://github.com/1999AZZAR">1999AZZAR</a>
-Last Edited on: 23/09/2022</p> 
+**Étudiant en BUT 3 Informatique** à l'IUT d'Orléans  
+🔍 **Recherche de stage** – Développement Informatique  
+📅 **16 semaines à partir du 15 février 2027**
+
+---
+
+### 📫 Contact
+
+- 📧 [magomed.arsamerzoev@etu.univ-orleans.fr](mailto:magomed.arsamerzoev@etu.univ-orleans.fr)
+- 📍 Blois / Orléans (très mobile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/magomed-a-35b006383/)
+- 🐙 [GitHub](https://github.com/MagOrl)
+
+---
+
+### 🧑‍💻 À propos de moi
+
+Passionné par le développement logiciel, j’aime concevoir des solutions propres, maintenables et adaptées aux besoins réels.  
+J’ai déjà eu l’occasion de travailler sur des projets clients, des applications web/mobile et des bases de données (y compris graphe).
+
+**Qualités principales :**
+- Esprit d’analyse
+- Organisé et productif
+- Sociable et esprit d’équipe
+- Très mobile sur le secteur Blois / Orléans
+
+---
+
+### 🛠️ Compétences
+
+#### Langages & Web
+`Python` (Django, Flask, Pandas, NumPy) · `C` / `C++` · `Java` (JDBC, JavaFX) · `JavaScript` (jQuery, Vue.js) · `HTML/CSS` · `PHP`
+
+#### Mobile & Bases de données
+`Flutter` · `MySQL` · `SQLite` · `MariaDB` · `Neo4j`
+
+#### DevOps, OS & Méthodes
+`Docker` · `Bash` · `Linux` (Debian, Ubuntu, Arch) · `Windows` · Méthode Agile · Analyse UML
+
+#### Langues
+🇬🇧 Anglais – Bon niveau (utilisation quotidienne)
+
+---
+
+### 🎓 Formation
+
+**BUT Informatique** – IUT d’Orléans  
+2024 – Présent (inscrit en BUT 3)
+
+- Conception logicielle avancée, architecture web, bases de données et travail collaboratif
+- Code propre, structuré, maintenable et documenté
+- Stage de 8 semaines (BUT 2) : manipulation de bases de données graphe avec Neo4j
+
+**Baccalauréat STI2D** – Lycée Camille Claudel  
+2023 – 2024  
+🏆 **1ère place** aux Olympiades des Sciences de l’Ingénieur (régionales – Gien)
+
+---
+
+### 💼 Expériences & Projets
+
+#### Stage 8 semaines – LIFO (Laboratoire d’Informatique Fondamentale d’Orléans)
+- Manipulation de bases de données graphe avec **Neo4j**
+- Analyse et nettoyage de données
+- Enrichissement sémantique multi-sources (scripts d’interconnexion pour compléter et standardiser les entités géographiques)
+- Optimisation des performances via traitements parallèles
+
+#### Conception pour un client réel
+- Développement et livraison d’un **site web sur-mesure**  
+  Gestion des attentes client et des délais
+
+#### Projets académiques & personnels
+- **Refonte complète** du site d’un club d’escrime local  
+  (Flask + Jinja + JavaScript + SQLAlchemy)
+- Application de vente de livres (Java + MySQL)
+- Intégration d’une IA dans un jeu vidéo (Python)
+- Système embarqué Arduino (roulettes auto-déployantes pour vélo enfant)
+- Analyse et amélioration d’une base de données graphe (Neo4j)
+
+---
+
+### 📊 GitHub Stats
+
+![Magomed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagOrl&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagOrl&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+### 🚀 Objectif actuel
+
+Je suis à la recherche d’un **stage de 16 semaines** à partir de **mi-février 2027**  
+dans le domaine du **développement informatique** (web, backend, data, mobile…).
+
+N’hésite pas à me contacter, je suis motivé et disponible !
+
+---
+
+⭐ *Merci d’être passé sur mon profil !*
