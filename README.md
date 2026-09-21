@@ -44,9 +44,10 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 
 #### Langues
-🇬🇧 Anglais – Bon niveau (utilisation quotidienne)
-#### Langues
-🇬🇧 Anglais – Bon niveau (utilisation quotidienne)
+🇫🇷 Français
+🇬🇧 Anglais 
+🇷🇺 Russe 
+
 
 
 ---
