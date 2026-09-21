@@ -11,8 +11,7 @@
 [![Email](https://img.shields.io/badge/Email-magomed.arsamerzoev%40etu.univ--orleans.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:magomed.arsamerzoev@etu.univ-orleans.fr)
 <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Magomed--A-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/magomed-a-35b006383/)
-<br>
-[![GitHub](https://img.shields.io/badge/GitHub-MagOrl-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MagOrl)
+
 ---
 
 ### 🛠️ Compétences
