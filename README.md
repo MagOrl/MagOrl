@@ -36,65 +36,8 @@ J’ai déjà eu l’occasion de travailler sur des projets clients, des applica
 #### Mobile & Bases de données
 `Flutter` · `MySQL` · `SQLite` · `MariaDB` · `Neo4j`
 
-#### DevOps, OS & Méthodes
-`Docker` · `Bash` · `Linux` (Debian, Ubuntu, Arch) · `Windows` · Méthode Agile · Analyse UML
-
 #### Langues
 🇬🇧 Anglais – Bon niveau (utilisation quotidienne)
-
----
-
-### 🎓 Formation
-
-**BUT Informatique** – IUT d’Orléans  
-2024 – Présent (inscrit en BUT 3)
-
-- Conception logicielle avancée, architecture web, bases de données et travail collaboratif
-- Code propre, structuré, maintenable et documenté
-- Stage de 8 semaines (BUT 2) : manipulation de bases de données graphe avec Neo4j
-
-**Baccalauréat STI2D** – Lycée Camille Claudel  
-2023 – 2024  
-🏆 **1ère place** aux Olympiades des Sciences de l’Ingénieur (régionales – Gien)
-
----
-
-### 💼 Expériences & Projets
-
-#### Stage 8 semaines – LIFO (Laboratoire d’Informatique Fondamentale d’Orléans)
-- Manipulation de bases de données graphe avec **Neo4j**
-- Analyse et nettoyage de données
-- Enrichissement sémantique multi-sources (scripts d’interconnexion pour compléter et standardiser les entités géographiques)
-- Optimisation des performances via traitements parallèles
-
-#### Conception pour un client réel
-- Développement et livraison d’un **site web sur-mesure**  
-  Gestion des attentes client et des délais
-
-#### Projets académiques & personnels
-- **Refonte complète** du site d’un club d’escrime local  
-  (Flask + Jinja + JavaScript + SQLAlchemy)
-- Application de vente de livres (Java + MySQL)
-- Intégration d’une IA dans un jeu vidéo (Python)
-- Système embarqué Arduino (roulettes auto-déployantes pour vélo enfant)
-- Analyse et amélioration d’une base de données graphe (Neo4j)
-
----
-
-### 📊 GitHub Stats
-
-![Magomed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagOrl&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MagOrl&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-### 🚀 Objectif actuel
-
-Je suis à la recherche d’un **stage de 16 semaines** à partir de **mi-février 2027**  
-dans le domaine du **développement informatique** (web, backend, data, mobile…).
-
-N’hésite pas à me contacter, je suis motivé et disponible !
 
 ---
 
