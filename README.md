@@ -9,22 +9,10 @@
 ### 📫 Contact
 
 - 📧 [magomed.arsamerzoev@etu.univ-orleans.fr](mailto:magomed.arsamerzoev@etu.univ-orleans.fr)
-- 📍 Blois / Orléans (très mobile)
+- 📍 Blois / Orléans
 - 💼 [LinkedIn](https://www.linkedin.com/in/magomed-a-35b006383/)
 - 🐙 [GitHub](https://github.com/MagOrl)
 
----
-
-### 🧑‍💻 À propos de moi
-
-Passionné par le développement logiciel, j’aime concevoir des solutions propres, maintenables et adaptées aux besoins réels.  
-J’ai déjà eu l’occasion de travailler sur des projets clients, des applications web/mobile et des bases de données (y compris graphe).
-
-**Qualités principales :**
-- Esprit d’analyse
-- Organisé et productif
-- Sociable et esprit d’équipe
-- Très mobile sur le secteur Blois / Orléans
 
 ---
 
