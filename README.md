@@ -1,4 +1,4 @@
-# Salut, moi c'est Magomed 👋
+# M<A<G<O<M<E<D 
 
 **Étudiant en BUT 3 Informatique** à l'IUT d'Orléans  
 🔍 **Recherche de stage** – Développement Informatique  
@@ -45,8 +45,6 @@
 🇫🇷 Français
 🇬🇧 Anglais 
 🇷🇺 Russe 
-
-
 
 ---
 
